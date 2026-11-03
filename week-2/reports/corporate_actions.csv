@@ -1,0 +1,22 @@
+date,ticker,company,dividends,stock_splits
+2024-05-31,INFY.NS,Infosys,28.0,0.0
+2024-10-29,INFY.NS,Infosys,21.0,0.0
+2025-05-30,INFY.NS,Infosys,22.0,0.0
+2025-10-27,INFY.NS,Infosys,23.0,0.0
+2026-06-10,INFY.NS,Infosys,25.0,0.0
+2024-08-19,RELIANCE.NS,Reliance Industries,5.0,0.0
+2024-10-28,RELIANCE.NS,Reliance Industries,0.0,2.0
+2025-08-14,RELIANCE.NS,Reliance Industries,5.5,0.0
+2026-06-05,RELIANCE.NS,Reliance Industries,6.0,0.0
+2024-01-19,TCS.NS,Tata Consultancy Services,27.0,0.0
+2024-05-16,TCS.NS,Tata Consultancy Services,28.0,0.0
+2024-07-19,TCS.NS,Tata Consultancy Services,10.0,0.0
+2024-10-18,TCS.NS,Tata Consultancy Services,10.0,0.0
+2025-01-17,TCS.NS,Tata Consultancy Services,76.0,0.0
+2025-06-04,TCS.NS,Tata Consultancy Services,30.0,0.0
+2025-07-16,TCS.NS,Tata Consultancy Services,11.0,0.0
+2025-10-15,TCS.NS,Tata Consultancy Services,11.0,0.0
+2026-01-16,TCS.NS,Tata Consultancy Services,57.0,0.0
+2026-05-25,TCS.NS,Tata Consultancy Services,31.0,0.0
+2026-07-15,TCS.NS,Tata Consultancy Services,12.0,0.0
+2026-10-14,TCS.NS,Tata Consultancy Services,12.0,0.0

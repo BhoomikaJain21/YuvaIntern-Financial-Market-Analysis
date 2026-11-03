@@ -1,0 +1,4 @@
+Company,Ticker,Rows,Columns,Start Date,End Date,Missing Values,Duplicate Dates
+Reliance Industries,RELIANCE.NS,740,10,2023-11-01,2026-10-30,0,0
+Tata Consultancy Services,TCS.NS,740,10,2023-11-01,2026-10-30,0,0
+Infosys,INFY.NS,740,10,2023-11-01,2026-10-30,0,0
